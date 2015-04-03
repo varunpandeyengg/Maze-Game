@@ -1,9 +1,8 @@
 /***********************************************************************************
  * Design & Analysis of Algorithm - Project
- * File name 	: cell.cpp
+ * File name 	: common_includes.cpp
  * Module 	: Maze.out
- * Description	: Instance of this class holds the attributes of individual cells in 
-		  the grid.
+ * Description	: Common Includes and MACROs
 ***********************************************************************************/
 #ifndef _COMMON_
 #define _COMMON_
