@@ -2,7 +2,8 @@
  * Design & Analysis of Algorithm - Project
  * File name 	: grid.cpp
  * Module 	: Maze.out
- * Description	: Actual Maze grid that creates and solves the MAZE for you.
+ * Description	: Actual Maze grid that creates and solves the MAZE for you. Start by 
+ * 		  using maze_it_up() to get the result.
 ***********************************************************************************/
 #include "grid.h"
 
